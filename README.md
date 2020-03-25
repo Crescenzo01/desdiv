@@ -8,9 +8,9 @@ The customer can release reviews, view the status of all published reviews and e
 
 To use the program use the following data:
 
-//Administrator
+-Administrator
 username: admin
 password: 000000
 
-//Customer
+<b>-Customer</b>
 you can make a registration, the important thing is that the registered user is approved with admin
