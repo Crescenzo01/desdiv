@@ -15,11 +15,9 @@
 <p><span style="color: #808080;">Warning: JDK Compliance Minimum: 1.8 (8.0)<br /><br /></span></p>
 <h3><a href="https://github.com/enzo-desimone/desdiv/raw/master/demo.jar"><strong>Download Software</strong></a></h3>
 <h2><br /><br /><span style="color: #808080;"><span style="color: #000000;">Screenshoots</span><br /></span></h2>
+<p>&nbsp;</p>
 <p>&nbsp;<img src="https://des-div.me/main.png" alt="" width="480" height="301" /></p>
-<p>&nbsp;</p>
 <p>&nbsp;<img src="https://des-div.me/cliente-login.png" alt="" width="480" height="301" /></p>
-<p>&nbsp;</p>
 <p>&nbsp;<img src="https://des-div.me/cliente-reg.png" alt="" width="480" height="301" /></p>
-<p>&nbsp;</p>
 <p>&nbsp;<img src="https://des-div.me/admin-login.png" alt="" width="480" height="301" /></p>
 <p>&nbsp;</p>
